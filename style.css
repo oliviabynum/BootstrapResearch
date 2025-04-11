@@ -1,0 +1,29 @@
+h1 {
+    background-color:beige;
+}
+.header {
+    font-size:40px;
+    color:red;
+    text-align:center;
+    font-family:fantasy;
+}
+#head:hover {
+    color:skyblue
+}
+p {
+    text-align:center;
+}
+li {
+    background-color:beige;
+}
+.table-header {
+    background-color:beige;
+    color:cadetblue;
+}
+#td-1 {
+    background-color: cadetblue;
+    color:beige;
+}
+.footer {
+    text-align: center;
+}
